@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svithub.webart.work/sitemap.xml
